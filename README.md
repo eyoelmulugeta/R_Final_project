@@ -1,7 +1,7 @@
 # R_Final_project
 #Data_331 Final project 
 
-## 1.overview
+# Overview
 The biology department at Augustana College provided the two xslx data (ladybug, scan ladybug).Utilizing the information we learned in class, we conducted our analysis using specific variables. In our first analysis (Ladybug) we used: Species, Genus, Scan Code,Collector, Identifier, Country, State Plot, A_E_V,  and Date. For our second analysis (cabbage butterfly) we used: Location, Date, Wing length/width, Apex Area, Left anterior Spot  
  Right anterior Spot, Longitude, Latitude.
  
