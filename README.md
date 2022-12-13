@@ -1,19 +1,20 @@
 # R_Final_project
-#Data_331 Final project 
+# Data_331 Final project 
 
 # Overview
 The biology department at Augustana College provided the two xslx data (ladybug, scan ladybug).Utilizing the information we learned in class, we conducted our analysis using specific variables. In our first analysis (Ladybug) we used: Species, Genus, Scan Code,Collector, Identifier, Country, State Plot, A_E_V,  and Date. For our second analysis (cabbage butterfly) we used: Location, Date, Wing length/width, Apex Area, Left anterior Spot  
  Right anterior Spot, Longitude, Latitude.
  
- 
- ###ladybug 
+![9stumMa](https://user-images.githubusercontent.com/112992643/207207656-803fdc24-ae44-4088-a2d3-9ec71e8e6414.jpeg)
+
+#ladybug 
 
 ## 1. Joining the Data 
 
-Inorder to create analysis we needed to join the lady bug data by the scan ladybug 
+Inorder to create analysis we needed to join the lady bug data by the scan ladybug. This is needed to use logical relationships between different tables to get data from those different tables. 
  
  
- ## 2. Cleaning Data 
+## 2. Cleaning Data 
  
  The data was cleaned first by renaming each species into a common one. Then the identifer and collector names had been written in different formats and like the species these had to be collected into a common one. after doing so we saw that there was no use of na vales so, we just dropped them using drop_na function. 
  
@@ -25,7 +26,7 @@ To establish who correctly identified the most and least species, the identifica
 
 ![Rplot](https://user-images.githubusercontent.com/112992643/207180467-fc8edac2-40b0-471f-af64-59c3cb1523c6.png)
 
-# 1.species by count
+## 1.species by count
 
 For the second vizulaization in lady bug we did count by species, The Area count was required. Doing so, for example: we found out Harmonia Axyiridis was there most in for Industrial .
 
@@ -39,7 +40,7 @@ For the third plot we did genus by count and showing how mant times it occured i
 
 
 
- ### 1.Cabbage BUtterfly 
+ # 1.Cabbage BUtterfly 
  
  Inorder to create analysis we needed to join the cleaned data by the uncleaned data 
  
@@ -50,12 +51,12 @@ For the third plot we did genus by count and showing how mant times it occured i
  then we changed the year value from charachter to numeric 
  
  
-# 1.Finding Average of the length,width,apex and anterior
+## 1.Finding Average of the length,width,apex and anterior
 
 By adding the Left wing length with the right wing and dividing it by two, we found AverageWingLength. We did the same for the width, anterior and apex
 
  
-# 2. plotting the average by sex 
+## 2. plotting the average by sex 
 
 #length
 
@@ -69,7 +70,7 @@ We conducted an analysis using the average we found. we did the average wing wid
 
 <img width="1440" alt="Screen Shot 2022-12-12 at 10 56 41 AM" src="https://user-images.githubusercontent.com/112992643/207187849-e4a4afbb-10e4-46ea-abae-3574cf550358.png">
 
-#4. Apex
+## 4. Apex
 
 we condcuted a box plot for the average apex area of the insects. we did the average apex area by year(every 10 years). for the male the highest value lied above 20 average apex area while the female was in the range 0-5 while the lowest for both sex was zero. but most of the data lied between 5 and 15. 
 
@@ -77,7 +78,7 @@ we condcuted a box plot for the average apex area of the insects. we did the ave
 
 then we arranged all three graphs together
 
-#Map-making plot
+## 1.Map-making plot
 
 conducting analysis using country three countiress were used. United states, United KIngdom and Republic Of Ireland. the we used one specific ountry to conduct where mosy of th inssects were found 
 
