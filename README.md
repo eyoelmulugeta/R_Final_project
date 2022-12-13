@@ -42,9 +42,10 @@ For the third plot we did genus by count and showing how mant times it occured i
 
  # 1.Cabbage Butterfly 
  
- ![butterflyanatomy_lg](https://user-images.githubusercontent.com/112992643/207209025-5638c833-a97e-4e59-bf89-a7dab12b4d7c.jpeg)
+ ![1-PP-7-17-20-Monarch-on-gayfeather](https://user-images.githubusercontent.com/112992643/207225790-e9deb40a-dd95-43b9-ad67-70baecd46507.jpeg)
 
- ## Join Data 
+ 
+## Join Data 
  
  Inorder to create analysis we needed to join the cleaned data by the uncleaned data 
  
