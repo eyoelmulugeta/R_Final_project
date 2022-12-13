@@ -53,33 +53,38 @@ For the third plot we did genus by count and showing how mant times it occured i
  
  then we changed the year value from charachter to numeric.  
  
- 
-## 1.Finding Average of the length,width,apex and anterior
+
+## Finding Average of the length,width,apex and anterior
 
 By adding the Left wing length with the right wing and dividing it by two, we found AverageWingLength. We did the same for the width, anterior and apex
 
- 
-## 2. plotting the average by sex 
 
-#length
 
-We conducted an analysis using the average we found. we did the average wing length by year(every 10 years) doing so we found out the female average winglegth lowesrt and highest point were in the 1960s. and for the male 1940s was the highest while 1970s had the lowest averge.  
+# plotting the average by Year using sex as factor  
+
+## Average length
+
+We conducted an analysis using the average we found. we did the average wing length by year(every 10 years) doing so we found out the female average winglegth lowest and highest point were in the 1960s. and for the male 1940s was the highest while 1970s had the lowest averge.  
 
 <img width="1440" alt="Screen Shot 2022-12-12 at 10 56 10 AM" src="https://user-images.githubusercontent.com/112992643/207186445-14097524-3fb4-4ee0-b72e-c7b9940723a4.png">
 
-#3. width
+##  width
 
 We conducted an analysis using the average we found. we did the average wing width by year(every 10 years) doing so we found out the female average winglegth lowest point was during the 1960s  and highest point was around the same time. and for the male 1940s was the highest and lowest averge. 
 
 <img width="1440" alt="Screen Shot 2022-12-12 at 10 56 41 AM" src="https://user-images.githubusercontent.com/112992643/207187849-e4a4afbb-10e4-46ea-abae-3574cf550358.png">
 
-## 4. Apex
+## Apex
 
 we condcuted a box plot for the average apex area of the insects. we did the average apex area by year(every 10 years). for the male the highest value lied above 20 average apex area while the female was in the range 0-5 while the lowest for both sex was zero. but most of the data lied between 5 and 15. 
 
 <img width="1440" alt="Screen Shot 2022-12-12 at 10 57 20 AM" src="https://user-images.githubusercontent.com/112992643/207191127-6c4f926b-2a7a-4db3-aea8-160465ae09a4.png">
 
 then we arranged all three graphs together
+
+
+Canada has the largest wing length and width, but the smallest Apex area, of all the nations. while the Republic of Ireland had the highest average apex area Length.
+![image](https://user-images.githubusercontent.com/112992643/207200652-7ce6e38e-c478-471d-a007-be5a906c7143.png)
 
 ## 1.Map-making plot
 
@@ -89,8 +94,11 @@ conducting analysis using country three countiress were used. United states, Uni
 
 <img width="1440" alt="Screen Shot 2022-12-12 at 2 34 48 AM" src="https://user-images.githubusercontent.com/112992643/207192955-e21783a7-6eae-44f4-a5a1-edc6d8a361f1.png">
 
-Canada has the largest wing length and width, but the smallest Apex area, of all the nations. while the US has the average width Length. 
-![image](https://user-images.githubusercontent.com/112992643/207200652-7ce6e38e-c478-471d-a007-be5a906c7143.png)
+
+
+# 1.T test 
+
+
 
 
 
