@@ -86,7 +86,9 @@ conducting analysis using country three countiress were used. United states, Uni
 
 
 
-Canada has the largest wing length and width, but the smallest Apex area, of all the nations. while the US has the average width Length.  
+Canada has the largest wing length and width, but the smallest Apex area, of all the nations. while the US has the average width Length. 
+![image](https://user-images.githubusercontent.com/112992643/207200652-7ce6e38e-c478-471d-a007-be5a906c7143.png)
+
 
 
 
