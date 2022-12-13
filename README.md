@@ -8,7 +8,7 @@ The biology department at Augustana College provided the two xslx data (ladybug,
  
  ###ladybug 
 
-##1. Joining the Data 
+## 1. Joining the Data 
 
 Inorder to create analysis we needed to join the lady bug data by the scan ladybug 
  
@@ -17,7 +17,7 @@ Inorder to create analysis we needed to join the lady bug data by the scan ladyb
  
  The data was cleaned first by renaming each species into a common one. Then the identifer and collector names had been written in different formats and like the species these had to be collected into a common one. after doing so we saw that there was no use of na vales so, we just dropped them using drop_na function. 
  
-##vizualization 
+## 3. vizualization 
 
 #species count by identifier
 
@@ -25,36 +25,37 @@ To establish who correctly identified the most and least species, the identifica
 
 ![Rplot](https://user-images.githubusercontent.com/112992643/207180467-fc8edac2-40b0-471f-af64-59c3cb1523c6.png)
 
-#species by count
+# 1.species by count
 
 For the second vizulaization in lady bug we did count by species, The Area count was required. Doing so, for example: we found out Harmonia Axyiridis was there most in for Industrial .
 
 <img width="1440" alt="Screen Shot 2022-12-12 at 12 20 28 AM" src="https://user-images.githubusercontent.com/112992643/207182571-9a83115b-2e22-4886-be92-a52a77f784b8.png">
 
-#plot genus by month 
+# 2. plot genus by month 
 
 
 for the third plot we did genus by count and showing how mant times it occured in a month. 
-<img width="1440" alt="Screen Shot 2022-12-12 at 4 22 19 PM" src="https://user-images.githubusercontent.com/112992643/207183028-f6feec58-df34-4246-ab6f-94f1fc2a4283.png">
+<img width="1440" alt="Screen Shot 2022-12-12 at 7 30 55 PM" src="https://user-images.githubusercontent.com/112992643/207205720-7fc71719-321a-41b1-9ca8-2275599807de.png">
 
 
- ###Cabbage BUtterfly 
+
+ ### 1.Cabbage BUtterfly 
  
  Inorder to create analysis we needed to join the cleaned data by the uncleaned data 
  
- ##cleaning the Data
+ ## 1.cleaning the Data
  
  Before joining the Data we had to rename each column to meake it easier for us the read and also join the files. The Date column was a character and this neede to be changed into a date format. The sex column containing male and female had to be changed to a common format. same was done for Country (specifically the United States ). after doing do we selected all the necessary variables needed to condcu our analysis. Then we had to drop the NA values.
  
  then we changed the year value from charachter to numeric 
  
  
-###Finding Average of the length,width,apex and anterior
+# 1.Finding Average of the length,width,apex and anterior
 
 By adding the Left wing length with the right wing and dividing it by two, we found AverageWingLength. We did the same for the width, anterior and apex
 
  
-##plotting the average by sex 
+# 2. plotting the average by sex 
 
 #length
 
@@ -62,13 +63,13 @@ We conducted an analysis using the average we found. we did the average wing len
 
 <img width="1440" alt="Screen Shot 2022-12-12 at 10 56 10 AM" src="https://user-images.githubusercontent.com/112992643/207186445-14097524-3fb4-4ee0-b72e-c7b9940723a4.png">
 
-#width
+#3. width
 
 We conducted an analysis using the average we found. we did the average wing width by year(every 10 years) doing so we found out the female average winglegth lowest point was during the 1960s  and highest point was around the same time. and for the male 1940s was the highest and lowest averge. 
 
 <img width="1440" alt="Screen Shot 2022-12-12 at 10 56 41 AM" src="https://user-images.githubusercontent.com/112992643/207187849-e4a4afbb-10e4-46ea-abae-3574cf550358.png">
 
-#Apex
+#4. Apex
 
 we condcuted a box plot for the average apex area of the insects. we did the average apex area by year(every 10 years). for the male the highest value lied above 20 average apex area while the female was in the range 0-5 while the lowest for both sex was zero. but most of the data lied between 5 and 15. 
 
@@ -86,7 +87,9 @@ conducting analysis using country three countiress were used. United states, Uni
 
 
 
-Canada has the largest wing length and width, but the smallest Apex area, of all the nations. while the US has the average width Length.  
+Canada has the largest wing length and width, but the smallest Apex area, of all the nations. while the US has the average width Length. 
+![image](https://user-images.githubusercontent.com/112992643/207200652-7ce6e38e-c478-471d-a007-be5a906c7143.png)
+
 
 
 
