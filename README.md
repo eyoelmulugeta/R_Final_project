@@ -8,7 +8,7 @@ The biology department at Augustana College provided the two xslx data (ladybug,
  
 ![9stumMa](https://user-images.githubusercontent.com/112992643/207207656-803fdc24-ae44-4088-a2d3-9ec71e8e6414.jpeg)
 
-#ladybug 
+# ladybug 
 
 ## 1. Joining the Data 
 
