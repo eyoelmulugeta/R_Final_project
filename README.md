@@ -1,7 +1,7 @@
 # R_Final_project
 #Data_331 Final project 
 
-##overview
+## 1.overview
 The biology department at Augustana College provided the two xslx data (ladybug, scan ladybug).Utilizing the information we learned in class, we conducted our analysis using specific variables. In our first analysis (Ladybug) we used: Species, Genus, Scan Code,Collector, Identifier, Country, State Plot, A_E_V,  and Date. For our second analysis (cabbage butterfly) we used: Location, Date, Wing length/width, Apex Area, Left anterior Spot  
  Right anterior Spot, Longitude, Latitude.
  
@@ -31,10 +31,10 @@ For the second vizulaization in lady bug we did count by species, The Area count
 
 <img width="1440" alt="Screen Shot 2022-12-12 at 12 20 28 AM" src="https://user-images.githubusercontent.com/112992643/207182571-9a83115b-2e22-4886-be92-a52a77f784b8.png">
 
-# 2. plot genus by month 
+## 2. plot genus by month 
 
 
-for the third plot we did genus by count and showing how mant times it occured in a month. 
+For the third plot we did genus by count and showing how mant times it occured in a month. we drew certain conclusions from doig this analysis. for example Genus Adalia was mostly found during the end of the year which shows it's found mostly on colder months. 
 <img width="1440" alt="Screen Shot 2022-12-12 at 7 30 55 PM" src="https://user-images.githubusercontent.com/112992643/207205720-7fc71719-321a-41b1-9ca8-2275599807de.png">
 
 
