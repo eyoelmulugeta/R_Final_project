@@ -26,13 +26,13 @@ To establish who correctly identified the most and least species, the identifica
 
 ![Rplot](https://user-images.githubusercontent.com/112992643/207180467-fc8edac2-40b0-471f-af64-59c3cb1523c6.png)
 
-## 1.species by count
+## 1.Species by count
 
 For the second vizulaization in lady bug we did count by species, The Area count was required. Doing so, for example: we found out Harmonia Axyiridis was there most in for Industrial .
 
 <img width="1440" alt="Screen Shot 2022-12-12 at 12 20 28 AM" src="https://user-images.githubusercontent.com/112992643/207182571-9a83115b-2e22-4886-be92-a52a77f784b8.png">
 
-## 2. plot genus by month 
+## 2. Plot genus by month
 
 
 For the third plot we did genus by count and showing how mant times it occured in a month. we drew certain conclusions from doig this analysis. for example Genus Adalia was mostly found during the end of the year which shows it's found mostly on colder months. 
