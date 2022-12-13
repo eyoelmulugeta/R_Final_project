@@ -35,7 +35,8 @@ For the second vizulaization in lady bug we did count by species, The Area count
 
 
 for the third plot we did genus by count and showing how mant times it occured in a month. 
-<img width="1440" alt="Screen Shot 2022-12-12 at 4 22 19 PM" src="https://user-images.githubusercontent.com/112992643/207183028-f6feec58-df34-4246-ab6f-94f1fc2a4283.png">
+<img width="1440" alt="Screen Shot 2022-12-12 at 7 30 55 PM" src="https://user-images.githubusercontent.com/112992643/207205720-7fc71719-321a-41b1-9ca8-2275599807de.png">
+
 
 
  ### 1.Cabbage BUtterfly 
