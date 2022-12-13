@@ -44,10 +44,11 @@ For the third plot we did genus by count and showing how mant times it occured i
  
  ![butterflyanatomy_lg](https://user-images.githubusercontent.com/112992643/207209025-5638c833-a97e-4e59-bf89-a7dab12b4d7c.jpeg)
 
+ ## Join Data 
  
  Inorder to create analysis we needed to join the cleaned data by the uncleaned data 
  
- ## 1.cleaning the Data
+ ## 1.Cleaning the Data
  
  Before joining the Data we had to rename each column to meake it easier for us the read and also join the files. The Date column was a character and this neede to be changed into a date format. The sex column containing male and female had to be changed to a common format. same was done for Country (specifically the United States ). after doing do we selected all the necessary variables needed to condcu our analysis. Then we had to drop the NA values.
  
@@ -60,7 +61,7 @@ By adding the Left wing length with the right wing and dividing it by two, we fo
 
 
 
-# plotting the average by Year using sex as factor  
+# Plotting the average by Year using sex as factor  
 
 ## Average length
 
@@ -68,7 +69,7 @@ We conducted an analysis using the average we found. we did the average wing len
 
 <img width="1440" alt="Screen Shot 2022-12-12 at 10 56 10 AM" src="https://user-images.githubusercontent.com/112992643/207186445-14097524-3fb4-4ee0-b72e-c7b9940723a4.png">
 
-##  width
+##  Width
 
 We conducted an analysis using the average we found. we did the average wing width by year(every 10 years) doing so we found out the female average winglegth lowest point was during the 1960s  and highest point was around the same time. and for the male 1940s was the highest and lowest averge. 
 
@@ -82,8 +83,9 @@ we condcuted a box plot for the average apex area of the insects. we did the ave
 
 then we arranged all three graphs together
 
-
+# Effect of country on the Average Length, Width and Apex 
 Canada has the largest wing length and width, but the smallest Apex area, of all the nations. while the Republic of Ireland had the highest average apex area Length.
+
 ![image](https://user-images.githubusercontent.com/112992643/207200652-7ce6e38e-c478-471d-a007-be5a906c7143.png)
 
 ## 1.Map-making plot
