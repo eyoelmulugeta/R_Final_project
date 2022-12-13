@@ -91,6 +91,7 @@ df_species_count %>%
 
 #plot genus by month
 
+df_genus_by_month= df_scanladybug %>%
 count(genus, month)%>%
   drop_na()
 
@@ -99,8 +100,7 @@ df_species_by_month%>%
   geom_col() +
   scale_color_manual(values=c('Red','Yellow','Green','Orange','Brown','Grey','Purple','Pink'))+
   coord_flip() +
-  labs(x="Genus", y = "Count") 
-
+  labs(x="Genus", y = "Count")
 
   
 
