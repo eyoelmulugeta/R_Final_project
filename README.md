@@ -101,7 +101,7 @@ The majority of the insects were then found in one particular country, where we 
 
 ## concluding: 
 
-That the the female insects are mostly located in the West coast and most of the male insects are located in the East coast.
+That the the female insects are mostly located in the West coast and most of the male insects are located in the East coast. 
 
 
 
