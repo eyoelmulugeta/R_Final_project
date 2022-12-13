@@ -40,7 +40,10 @@ For the third plot we did genus by count and showing how mant times it occured i
 
 
 
- # 1.Cabbage BUtterfly 
+ # 1.Cabbage Butterfly 
+ 
+ ![butterflyanatomy_lg](https://user-images.githubusercontent.com/112992643/207209025-5638c833-a97e-4e59-bf89-a7dab12b4d7c.jpeg)
+
  
  Inorder to create analysis we needed to join the cleaned data by the uncleaned data 
  
@@ -48,7 +51,7 @@ For the third plot we did genus by count and showing how mant times it occured i
  
  Before joining the Data we had to rename each column to meake it easier for us the read and also join the files. The Date column was a character and this neede to be changed into a date format. The sex column containing male and female had to be changed to a common format. same was done for Country (specifically the United States ). after doing do we selected all the necessary variables needed to condcu our analysis. Then we had to drop the NA values.
  
- then we changed the year value from charachter to numeric 
+ then we changed the year value from charachter to numeric.  
  
  
 ## 1.Finding Average of the length,width,apex and anterior
@@ -85,8 +88,6 @@ conducting analysis using country three countiress were used. United states, Uni
 <img width="1440" alt="Screen Shot 2022-12-12 at 2 06 52 AM" src="https://user-images.githubusercontent.com/112992643/207192884-4c889a65-3a74-4f04-bec2-ee21ce4e28fb.png">
 
 <img width="1440" alt="Screen Shot 2022-12-12 at 2 34 48 AM" src="https://user-images.githubusercontent.com/112992643/207192955-e21783a7-6eae-44f4-a5a1-edc6d8a361f1.png">
-
-
 
 Canada has the largest wing length and width, but the smallest Apex area, of all the nations. while the US has the average width Length. 
 ![image](https://user-images.githubusercontent.com/112992643/207200652-7ce6e38e-c478-471d-a007-be5a906c7143.png)
