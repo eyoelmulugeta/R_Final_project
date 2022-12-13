@@ -88,15 +88,21 @@ Canada has the largest wing length and width, but the smallest Apex area, of all
 
 ## 1.Map-making plot
 
-conducting analysis using country three countiress were used. United states, United KIngdom and Republic Of Ireland. the we used one specific ountry to conduct where mosy of th inssects were found 
+conducting analysis using country three countiress were used. United states, United KIngdom and Republic Of Ireland. Then we used one specific Country to conduct where most of the inssects were found. The purpose of this diagram displays the distribution of butterflies on a world and US map according to sex.
+
 
 <img width="1440" alt="Screen Shot 2022-12-12 at 2 06 52 AM" src="https://user-images.githubusercontent.com/112992643/207192884-4c889a65-3a74-4f04-bec2-ee21ce4e28fb.png">
 
+The majority of the insects were then found in one particular country, where we conducted our research, which was the USA.
+
 <img width="1440" alt="Screen Shot 2022-12-12 at 2 34 48 AM" src="https://user-images.githubusercontent.com/112992643/207192955-e21783a7-6eae-44f4-a5a1-edc6d8a361f1.png">
 
+## concluding: 
+
+That the the female insects are mostly located in the West coast and most of the male insects are located in the East coast.
 
 
-# 1.T test 
+
 
 
 
