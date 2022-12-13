@@ -102,7 +102,13 @@ The majority of the insects were then found in one particular country, where we 
 
 ## concluding: 
 
-That the the female insects are mostly located in the West coast and most of the male insects are located in the East coast.  
+That the the female insects are mostly located in the West coast and most of the male insects are located in the East coast. 
+
+## T Test 
+
+We performed a t-test for the Butterfly Data and we used the Average Apex Area . It showed that there was a 95 percent confidence interval. with this confidence level we can say there was a significant difference between Male and Female. This shows that the sample was significant and there were high confidence levels. 
+
+
 
 
 
