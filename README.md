@@ -8,7 +8,7 @@ The biology department at Augustana College provided the two xslx data (ladybug,
  
  ###ladybug 
 
-##1. Joining the Data 
+## 1. Joining the Data 
 
 Inorder to create analysis we needed to join the lady bug data by the scan ladybug 
  
@@ -38,7 +38,7 @@ for the third plot we did genus by count and showing how mant times it occured i
 <img width="1440" alt="Screen Shot 2022-12-12 at 4 22 19 PM" src="https://user-images.githubusercontent.com/112992643/207183028-f6feec58-df34-4246-ab6f-94f1fc2a4283.png">
 
 
- ###Cabbage BUtterfly 
+ ### 1.Cabbage BUtterfly 
  
  Inorder to create analysis we needed to join the cleaned data by the uncleaned data 
  
