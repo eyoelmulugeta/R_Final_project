@@ -8,7 +8,7 @@ The biology department at Augustana College provided the two xslx data (ladybug,
  
 ![9stumMa](https://user-images.githubusercontent.com/112992643/207207656-803fdc24-ae44-4088-a2d3-9ec71e8e6414.jpeg)
 
-# ladybug 
+# Ladybug Data
 
 ## 1. Joining the Data 
 
@@ -19,7 +19,7 @@ Inorder to create analysis we needed to join the lady bug data by the scan ladyb
  
  The data was cleaned first by renaming each species into a common one. Then the identifer and collector names had been written in different formats and like the species these had to be collected into a common one. after doing so we saw that there was no use of na vales so, we just dropped them using drop_na function. 
  
-## 3. vizualization 
+## 3. Vizualization 
 
 #species count by identifier
 
