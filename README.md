@@ -1,5 +1,5 @@
 # R_Final_project
-# BY: EYOEL MULUGETA AND BLEN BUTICHO
+# BY: BLEN BUTICHO AND EYOEL MULUGETA 
 # Data_331 Final project 
 
 # Overview
